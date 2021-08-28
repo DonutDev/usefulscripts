@@ -1,4 +1,10 @@
-# usefulscripts
-good scripts
+# uwuCALC
+awful calculator made in python
 
-#do whatever you want with the code I don't care what you do or use it for
+###but why?
+because gnome calculator sucks
+
+###should I use it?
+no, never. Not even your worst enemy should be forced to use it
+
+
